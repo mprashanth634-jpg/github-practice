@@ -13,5 +13,6 @@ public class Division {
         System.out.println("Example Operations: ");
 
         System.out.println("Division: " + (10/6));
+
     }
 }
