@@ -8,11 +8,16 @@ public class arithmetic {
 
         System.out.println("Addition: " + "+");
         System.out.println("Subtraction: " + "-");
+        System.out.println("Multiplication: " + "*");
 
         System.out.println("////////////////////////////////////////////////" + "\n");
 
         System.out.println("Example Operations: ");
 
         System.out.println("Additon: " + (10 + 10));
+
+        System.out.println("Subtraction: " + (10 - 4));
+
+        System.out.println("Multliplication: " + (10*10));
     }
 }
