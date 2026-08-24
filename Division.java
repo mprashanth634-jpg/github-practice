@@ -12,6 +12,6 @@ public class Division {
 
         System.out.println("Example Operations: ");
 
-        System.out.println("Division: " + (10/2));
+        System.out.println("Division: " + (10/4));
     }
 }
